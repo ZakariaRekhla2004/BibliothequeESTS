@@ -1,0 +1,1370 @@
+[33mcommit 96054b4b7d9c5674f1d6c8931b98729c7914608e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue Jun 20 20:01:27 2023 +0200
+
+    'iajfd'
+
+[33mcommit d40b29fc6b80b94490db10c0c866d576ec50e896[m
+Merge: 2f06a22 d05adac
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri Jun 16 08:33:21 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 2f06a2259e83b8c13962d8f02990b9d6c58486d1[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri Jun 16 08:32:32 2023 +0200
+
+    phdaspfh
+
+[33mcommit d05adac388e085855a03cdecc5d586754c4dbfc3[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri Jun 16 07:22:59 2023 +0100
+
+    add footer
+
+[33mcommit 5022b045e11136e3783ced41e9c8d61f1bcaac44[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 26 21:35:57 2023 +0200
+
+    add refresh to select four and livre in project
+
+[33mcommit 0acdb5c6361bdee8e11c5e61c4bf201622699eb1[m
+Merge: 16cea07 255a578
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 26 21:26:48 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 16cea07c69ac0a9dc693c08708db06358c12cf81[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 26 21:25:01 2023 +0200
+
+    fix prix error
+
+[33mcommit 255a578d959b83bddcfb376e161cd9c77bdd895d[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Fri May 26 19:44:06 2023 +0100
+
+    azertyu
+
+[33mcommit 159d938b4a50e1313c482296ba843349f4d8930e[m
+Merge: af2d1da 3d1f958
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 26 20:27:19 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit af2d1da2fdfd4178428d12087dc242513c144c17[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 26 20:27:07 2023 +0200
+
+    add dynamic refresh to select
+
+[33mcommit 3d1f95885a0a6ffadca0077f04b954989fc59ce8[m
+Merge: 831c95f 3458fc2
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Fri May 26 09:59:32 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 831c95f84e581b8c9ee90e65bff74adae6ecb926[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Fri May 26 09:58:50 2023 +0100
+
+    azertyu
+
+[33mcommit 3458fc2356044c1c5a063b2a19798c357a7d3764[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 26 03:44:51 2023 +0200
+
+    need more check
+
+[33mcommit a6568fe7df31d6cc20688f96a37225f6f6f66356[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 26 03:18:33 2023 +0200
+
+    finish show Docs
+
+[33mcommit 9b6f641ecd63087460151ecfc6e3654b2459b3d2[m
+Merge: da6279d 5465663
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Fri May 26 02:09:49 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit da6279da842a19952773d70566ee091c8260e2d6[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Fri May 26 02:09:42 2023 +0100
+
+    azertyu
+
+[33mcommit 5465663a3df9e53ab464be3247c702573e9c4260[m
+Merge: ec8a96f b20e2c8
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 26 03:01:41 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit ec8a96fc2b9d01a122c92871319b0d9c5d4abd77[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 26 02:58:52 2023 +0200
+
+    still just the emprunt
+
+[33mcommit b20e2c8a814a0c86072860ee4e60983f1a561a02[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Fri May 26 00:59:53 2023 +0100
+
+    azertyu
+
+[33mcommit 514d920f19bc97024ac32fb6510a9b2e0a02412c[m
+Merge: 1e5fc22 9d2e3e7
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 25 23:04:17 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 1e5fc229e6616ab1d6a1093fbb6aa5405e5bcb0f[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 25 23:03:43 2023 +0100
+
+    azertyu
+
+[33mcommit 9d2e3e7819d68bb6600f36dd9583c4f8c2f4065e[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 25 23:48:02 2023 +0200
+
+    update the main layout and add header
+
+[33mcommit cb06be0db504224896d127659068c47396c217c2[m
+Merge: 550dc8d aad75f0
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 25 22:32:29 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit aad75f07e7ddf6f7e124f3f7ef9497bb967c4f14[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 25 23:12:25 2023 +0200
+
+    finish nav
+
+[33mcommit 550dc8dfbdb9a5664385b9d322dfb586aaf78c55[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 25 21:21:23 2023 +0100
+
+    azertyu
+
+[33mcommit 81036fc8f18d14a323d93225ca205fd59af90841[m
+Merge: a1f5fd7 43f870e
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 25 19:34:54 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 43f870e43a782099aceff6ab5d642bd7704630e6[m
+Merge: 7aa8bbd d855e0c
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 25 18:34:25 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 7aa8bbd3b089ce52850c43881416ee78143e210e[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 25 18:31:53 2023 +0100
+
+    azertyu
+
+[33mcommit a1f5fd7d7b38970abd76e051fd932aaf62fd8c1c[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 25 19:31:00 2023 +0200
+
+    start the desagn improvement
+
+[33mcommit 01edb6ee9629f1b2ce865fde520756c1a4e1009e[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 25 17:54:12 2023 +0100
+
+    zertyuiop
+
+[33mcommit d855e0cfe3ee41075ef7dfb1f61d039f78f179bf[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 25 17:48:24 2023 +0200
+
+    finish logical part of the part start working on the desagn
+
+[33mcommit d0cde6a5901f188ac29bccf90ed2bd87c3398fcb[m
+Merge: a4a3634 ef027fe
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 25 11:47:19 2023 +0100
+
+    Merge branches 'main' and 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit a4a36340c7a68ab9b9024e9f6339152fc56f8af7[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 25 11:46:34 2023 +0100
+
+    azertyu
+
+[33mcommit ef027fed7ce47667f9b60045d5e05470130ac8b0[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 25 12:06:40 2023 +0200
+
+    redirection exemplaire emprunt
+
+[33mcommit e2d39ed40a8108b24876ca71b0b19356552f08c2[m
+Merge: 3fd0aa6 dcfa863
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 24 22:21:04 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 3fd0aa66c5342fb031cb194888546cb3ac649ca4[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 24 22:20:53 2023 +0100
+
+    azertyu
+
+[33mcommit dcfa8630bccfa61282205a762d0066e473c816c8[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 24 23:10:22 2023 +0200
+
+    finish more info exemplaire
+
+[33mcommit 1fcdeb2d615380cc9faedd036e385389345ae6c8[m
+Merge: 80ba1b0 9944b9e
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 24 21:30:23 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 80ba1b0005f826e1e935f5a78c2724a0ffec67a9[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 24 21:29:01 2023 +0200
+
+    image fix issue
+
+[33mcommit 9944b9ef9243148ec186d6973fb976b56e898759[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 24 18:23:01 2023 +0100
+
+    azertyu
+
+[33mcommit 9a1cf99ba5d450a248fdec8a7d56fbdf4effe3d8[m
+Merge: 73a3a6a fda29b1
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 24 16:49:33 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 73a3a6a501e32809f5fe28ef1e88214c5f37f62c[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 24 16:49:21 2023 +0100
+
+    dfghj
+
+[33mcommit fda29b1546f7a119ab51d808269e107ca250e668[m
+Merge: 48ffd99 1bdcd1d
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 24 13:17:50 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 48ffd99db1ea0518e02ce04279dd5a8683e2cb5f[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 24 13:16:15 2023 +0200
+
+    hohsdfoi
+
+[33mcommit 1bdcd1def25df075e08d686c7649a5637104163e[m
+Merge: a825676 d40be2c
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 24 11:49:59 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit a825676ce73f2a0e5729451cc4258cadb62d9ecc[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 24 11:49:40 2023 +0100
+
+    dfghj
+
+[33mcommit d40be2ccbde649b661ba5f1e3bc06e91e4727295[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 24 02:43:42 2023 +0200
+
+    add exemplaire finish
+
+[33mcommit 9ee7dec1b2ca332e63c06a1066a1ce478ff469ed[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 23 19:26:25 2023 +0200
+
+    livre
+
+[33mcommit d177c3a1e4ef90a0e88af1ac45d0e3b5e030367d[m
+Merge: 3983fd0 bed378c
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Tue May 23 15:26:22 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 3983fd0bdaf1dd24dd3ce45ce167986f48c1a97c[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Tue May 23 15:26:15 2023 +0100
+
+    fghjk
+
+[33mcommit bed378c468faf6ef49459b7638a71b64e7b943d6[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 23 16:25:14 2023 +0200
+
+    fix upload issue
+
+[33mcommit 7e3803b60b25a3970d5c1e84e363c22100940ef6[m
+Merge: e2b3bbb e5bb703
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Tue May 23 14:53:29 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit e2b3bbb915c49e9d8aba9390e39eb7f691475206[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Tue May 23 14:49:57 2023 +0100
+
+    fghjk
+
+[33mcommit e5bb703b91f8dcb6a78a63bc31eca4be2137d393[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 23 15:10:14 2023 +0200
+
+    hello world
+
+[33mcommit 1be8fc392df4afec4bdfa277ed040613e6ddf35a[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 23 00:37:53 2023 +0200
+
+    madrt walo
+
+[33mcommit 86bdbf5d2ac34dec98c23dbe5a37dc715e5a02e0[m
+Merge: f6df4a8 7b253be
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Mon May 22 11:31:29 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit f6df4a80dcb283eabd3126d4d4b66a7145b7dd57[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Mon May 22 11:31:17 2023 +0200
+
+    finish
+
+[33mcommit 7b253be6e921db2562d559c4c07e7e4fe84a3ac5[m
+Merge: 610fa0f 41175cd
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Mon May 22 10:30:08 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 610fa0f76a3d2c462f78984a1661b8370694fb75[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Mon May 22 10:29:42 2023 +0100
+
+    sdfghjk
+
+[33mcommit 41175cd7d89a9ce0d8610cc06a575017f05f4698[m
+Merge: d85c267 8200894
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Mon May 22 11:15:01 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit d85c26783e84cf342ffa5237ec5b8ee6d8931318[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Mon May 22 11:12:42 2023 +0200
+
+    finish
+
+[33mcommit 82008946afab7ebbb12d21fbefab4f9e41a06d9c[m
+Merge: 7b1bb18 9fa14ba
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Mon May 22 09:34:07 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 7b1bb18eded7c9d161593c98e8091a73ed441869[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Mon May 22 09:32:25 2023 +0100
+
+    more info emprunt 100%
+
+[33mcommit 9fa14ba6784296c0f57653aba716bdbf0735c4d1[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun May 21 23:48:50 2023 +0200
+
+    fix pdf
+
+[33mcommit 0968b7bd91a01a67d26886c388b8fa619ec47fa2[m
+Merge: 87036ee 55e61d2
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun May 21 23:15:01 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 87036ee8473e0430779534a77c7c183a0504c95b[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun May 21 23:14:19 2023 +0200
+
+    klsjhdfskhf
+
+[33mcommit 55e61d259d3d5a6b987e8c9ece503e77bd402da8[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun May 21 22:09:03 2023 +0100
+
+    work on pdf
+
+[33mcommit d2efe267eadf1b6f8273745dee455bd9ec92d803[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun May 21 20:43:02 2023 +0100
+
+    fininsh show more livre
+
+[33mcommit 713ee18279ca32386c3d34454d9d81ab93038021[m
+Merge: 4458b4c 466613f
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sun May 21 20:38:20 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 4458b4c40d905948035f35983c920a2ba33fb247[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sun May 21 20:38:10 2023 +0100
+
+    more info emprunt
+
+[33mcommit 466613fb79ed92b7d8ca26b5d024b6f917112bef[m
+Merge: b8eb5b4 89fc916
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun May 21 20:26:00 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit b8eb5b4be84719363b3c127596872878f9e40a93[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun May 21 20:25:39 2023 +0100
+
+    sra9
+
+[33mcommit 89fc91666bd019aa2434b158d616a0906dca40a9[m
+Merge: a527834 446765d
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sun May 21 18:06:18 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit a527834b02db0bf86f93bd098e62a9fd38206e8c[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sun May 21 18:06:07 2023 +0100
+
+    azerty 3la slamto
+
+[33mcommit 446765dad3f5d71578673e558b8802ec5f559b42[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun May 21 16:46:11 2023 +0100
+
+    fix error
+
+[33mcommit 6a7e44f75254fdde4806a59f862d7dba3fb118de[m
+Merge: 0130d9c e98a910
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun May 21 16:44:18 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 0130d9c47d06c4686228ea1dee3e2e63c3b3321a[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun May 21 16:34:33 2023 +0100
+
+    mafiyach ligol kolchi hh
+
+[33mcommit e98a910fe86b1121e1e07e88021bfd599d645af7[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sun May 21 14:12:10 2023 +0100
+
+    azerty 3la slamto
+
+[33mcommit 39f1c63bad1016762ea021bb42627ed4f81b40e2[m
+Merge: ffbdd10 505cf78
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sat May 20 23:17:26 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit ffbdd10aa58a80a4d2a7274ab62d3ac78f0d456e[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sat May 20 23:15:46 2023 +0100
+
+    sdfghj
+
+[33mcommit 505cf78dd461f44c23e6c82787a94ac310d157a5[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat May 20 22:56:04 2023 +0100
+
+    werty
+
+[33mcommit 2c2b51a6d0798c5ffc323920f17286b1d97703be[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat May 20 22:33:15 2023 +0100
+
+    add cookies
+
+[33mcommit 3ed7bd809ece948f44c973c27d7e1e4e20b60fe5[m
+Merge: 1f4b215 3aa509e
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sat May 20 20:05:25 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 1f4b21512908411d1471185f899ba68398e3a9a4[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sat May 20 20:02:09 2023 +0100
+
+    zerty
+
+[33mcommit 3aa509ebb0ed355cf5d83a43ed95730a16df093f[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat May 20 18:28:34 2023 +0100
+
+    fix error
+
+[33mcommit 6267e78bcff0d8aa86931cb2e1a3013dc3312ccb[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat May 20 18:03:44 2023 +0100
+
+    fix add livre
+
+[33mcommit be549977dcbdeb0850f9e1e803966d41ac812083[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat May 20 17:52:08 2023 +0100
+
+    change date edition to year
+
+[33mcommit 273369658141d92ae4f76c07a61e645b3b78ec3c[m
+Merge: 4720ad5 f991ccf
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat May 20 17:39:34 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 4720ad5d3efdb02f6721a9f092203a5fab7767a9[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat May 20 17:35:12 2023 +0100
+
+    add desagn to table border
+
+[33mcommit 249906be48bbb77f78df0fe205a4a61c61c55c77[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat May 20 17:31:15 2023 +0100
+
+    add desagn to table
+
+[33mcommit f991ccf5aa98ee9f3def89bc7ae04fa024e5a4c6[m
+Merge: eb24e0f c1a5d88
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sat May 20 12:36:03 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit eb24e0fb756ec2f7231b224d9fe458cebd3a0235[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sat May 20 12:35:35 2023 +0100
+
+    add redirection to show page
+
+[33mcommit c1a5d887ea53e4356c74000ff50004aa478f812b[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat May 20 11:19:24 2023 +0100
+
+    change the userLogo
+
+[33mcommit 69b7789645bae159746577087bb4969ab0e40179[m
+Merge: ae3f227 2145bfd
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sat May 20 10:18:54 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit ae3f227114ac4bfa824796828f93a6bf9ebc2e15[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sat May 20 10:18:38 2023 +0100
+
+    dfghjk
+
+[33mcommit 2145bfd3801f973f9394274bd8edc6a1f6ec894a[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 19 23:09:41 2023 +0200
+
+    oagofha
+
+[33mcommit e21350d097edf12f5a362196ec79b4ae4185279b[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 19 21:41:48 2023 +0200
+
+    change font
+
+[33mcommit ce79611e232bb0a3ede34a13f42ef831c9ab1cb4[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 19 11:06:05 2023 +0200
+
+    finish project version
+
+[33mcommit 03ebc3fc0352cfae31fc9ff6c290a8d007c80098[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 19 09:56:46 2023 +0200
+
+    dynamic
+
+[33mcommit d9ffda0de15c410adad1247234bf04bae0d87ebd[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 19 09:53:34 2023 +0200
+
+    finish projet 95%
+
+[33mcommit 44295223c8564bfdf22bc76c19bcccf39c78ebdb[m
+Merge: bd91a80 576e337
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Fri May 19 08:48:21 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit bd91a807541dac9307de215097d96aa0b0cfd1df[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Fri May 19 08:44:07 2023 +0100
+
+    modification
+
+[33mcommit 576e33706fb661ce39ae5c6f94b781f25440cc99[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 19 08:45:12 2023 +0200
+
+    finish approvisionnement
+
+[33mcommit 6fef7a46a8a21ce271540a910cec84f231f768e4[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 19 00:14:53 2023 +0200
+
+    add approvis 99%
+
+[33mcommit 8b83993a771fcb7177f637fe39298b0b36d565f0[m
+Merge: 6a14f2c 53e4956
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 18 20:29:57 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 6a14f2c44e9f0bc38090b0bc2ab1457e78a373fd[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 18 20:29:49 2023 +0100
+
+    modification
+
+[33mcommit 53e4956ba8ea034302b45564ea073d4d6c6b154e[m
+Merge: 159bae1 2fe7e88
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 18 20:06:39 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 159bae1ccf82649cce7bc118b4e1fccd41c01fd4[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 18 20:06:13 2023 +0200
+
+    approvis 70%
+
+[33mcommit 2fe7e8841404e52ade4aa68f48e52f929dbf4bec[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 18 17:51:04 2023 +0100
+
+    update prof etudiant fournisser
+
+[33mcommit ee0bf02123ec06796d9f5a2cb0f48cde5b310a2b[m
+Merge: 6e25c46 9bbf177
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 18 13:22:23 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 6e25c466a06aab864b3582ee1ddb088f0d8377cd[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 18 13:22:07 2023 +0100
+
+    azerty
+
+[33mcommit 9bbf177565c3f3bbb4d29113137ad106cecff7ec[m
+Merge: d7fa178 b0aa3e3
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 18 14:22:02 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit d7fa178c6d72db93a72694d8c2c84ca4a6d3c12a[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 18 14:21:18 2023 +0200
+
+    approvis 60%
+
+[33mcommit b0aa3e3cb3068fcc579b41c66179020fdd288807[m
+Merge: 9eeba8f 3c3fcea
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 18 12:31:43 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 9eeba8f70086894a8bc070c5a18eb10e12f260c9[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 18 12:31:32 2023 +0100
+
+    update emprunt
+
+[33mcommit 3c3fcea523db2a0be2582c76d4332d7a4fede3e7[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 18 13:17:32 2023 +0200
+
+    addFournisseur
+
+[33mcommit b3e63c202a18c8c7292316559d4cb1200b10eca8[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 18 12:19:48 2023 +0200
+
+    addDocs for etudiant and prof
+
+[33mcommit 964b0a9b5238656bfd16a8872b119542eb59ae09[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 18 09:48:02 2023 +0100
+
+    add update categorie
+
+[33mcommit 6d15866a62d206801e7a3044d32328e22b562a63[m
+Merge: a57a153 b2b1f26
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 18 09:44:08 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit a57a153b243612d00905620408c052ca2c09c54d[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 18 09:37:09 2023 +0100
+
+    add update categorie
+
+[33mcommit b2b1f26963f45f534d4a89f4243fbd3e50fce07b[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 18 09:10:57 2023 +0100
+
+    jadifhpert
+
+[33mcommit 48367ffe2c66f29f29d9ae3f65469206a9a6a1c9[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 17 15:46:20 2023 +0200
+
+    fix emprunt error
+
+[33mcommit 1150a2752c7c51affeb8608dd81037877ef7c02d[m
+Merge: 0774969 1610ce7
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 17 13:45:27 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 07749698c0f32677ae3863899abcf6d674768061[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 17 13:45:13 2023 +0100
+
+    azer
+
+[33mcommit 1610ce7184c489c58c2bcfb7cd657e81edb6e82b[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 17 14:39:50 2023 +0200
+
+    add chart
+
+[33mcommit 7c65d5c8e80d2952d1dc0dfc6808635c1c156d80[m
+Merge: 677dcfb 79f4dfd
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 17 12:57:22 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 677dcfbd828f5c761d5845aab3a0be367182bd03[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 17 12:57:04 2023 +0100
+
+    modification
+
+[33mcommit 79f4dfdc0330a5432e4a5eb6846cda2665a0800f[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 17 13:55:37 2023 +0200
+
+    update package.json
+
+[33mcommit 95ffe5ccb9025e3bebadeac68b875f3437dd0f7b[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 17 13:10:59 2023 +0200
+
+    change database
+
+[33mcommit 2676fce0e3d96c485dc5f9db743f9ab7db05882c[m
+Merge: 73c5062 357101a
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 17 11:56:23 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 357101adcdf74c8cbf840894ff225891466dbd08[m
+Merge: 97d397f d8d79f3
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 17 12:54:37 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 73c50624ece63f36e4172512820a14d772ecda22[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 17 11:54:36 2023 +0100
+
+    zertyuio
+
+[33mcommit 97d397f645fd3d602db09bb74348a899b0435970[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 17 12:54:20 2023 +0200
+
+    change database
+
+[33mcommit d8d79f3f8a13f1e54737f0ef9acb75fb30dacd00[m
+Merge: 43a9960 347f756
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 17 10:45:11 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 43a9960e97a3ac1c4d08001c7f3e5030d4f7fa9c[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 17 10:44:48 2023 +0100
+
+    updatelivre 100%
+
+[33mcommit 347f75616f81a19a65289150431189fd84fecaf3[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 16 23:16:16 2023 +0100
+
+    fix all issues in the project and finish the login and session
+
+[33mcommit c049a9f2edec6b63867a8b3095ff693656e35b0d[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 16 21:47:22 2023 +0100
+
+    finish emprunt (pfe until we ask the ...)
+
+[33mcommit ebd033aa2d1216dd6f3c5e407b594f4fe1ac9903[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 16 20:29:54 2023 +0200
+
+    fix issues
+
+[33mcommit f887c2daf6e5077b6faf93cf9dff5def47d82cde[m
+Merge: 6993f93 c07ce8d
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 16 20:27:14 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 6993f9312207c9c5d27f4f05415a2a54ce73464b[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 16 20:25:58 2023 +0200
+
+    emprunt 50%
+
+[33mcommit c07ce8d5c961b33e5a51900cf145311367010a63[m
+Merge: c2f68ee a6f7f80
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Mon May 15 20:35:46 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit c2f68ee71e28912e694d2c9aff37a006edef9448[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Mon May 15 20:32:12 2023 +0100
+
+    create page show  Exemplaire and updateExemplaire  and delete Exemplaire 100 % , update user 100% and i add some requet n get and delete
+
+[33mcommit a6f7f80d384b31b6b7768fca6cfe761a95369070[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Mon May 15 12:56:57 2023 +0200
+
+    finish remove Docs
+
+[33mcommit a0da9e87928222ccc46c4a1e6aa39a6c3784ad90[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Mon May 15 11:38:03 2023 +0200
+
+    pahwgpiawhg
+
+[33mcommit d9f3ef4830824394bdc8b1069f141aa0fc96ab89[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Mon May 15 11:27:18 2023 +0200
+
+    ojhaiohsefd
+
+[33mcommit 264a0e02f72aa8698ea98cac97a68c5ecdd0c4e6[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Mon May 15 08:17:48 2023 +0100
+
+    delete finish by 90%
+
+[33mcommit c20412d3af9e0acbff518c35d288168fe2616aaf[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun May 14 19:36:36 2023 +0100
+
+    finish modify addDocs and add confirme password to adduser
+
+[33mcommit d0608584315d49543a0713af57c3a61221a8a91e[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun May 14 15:52:49 2023 +0100
+
+    fix addExe components probleme empty
+
+[33mcommit 176779296d91c47a1447115098fb995c3af156b8[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun May 14 15:16:16 2023 +0100
+
+    add error toast to add Livre
+
+[33mcommit 59b979d1b3c20994ccb6bc2485c04f4b812f1d98[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat May 13 21:53:41 2023 +0100
+
+    add interactivite to add Livre page
+
+[33mcommit 71851169e5c4311e9f116d7fe141f2f0d4c1f24a[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat May 13 19:50:21 2023 +0100
+
+    add toast to add livre (bzz hhh)
+
+[33mcommit 978970478a618f4f873fc4639b3a9c56df32c298[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 12 21:19:40 2023 +0100
+
+    fix pdf and img upload to github see .gitignore file to understand
+
+[33mcommit ef644218f433e8d3b0defe7a3726a104315b7f68[m
+Merge: d28de7b 71b5e69
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 12 22:07:47 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit d28de7b2e40a81ba76956f967d5389b52d4816e7[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 12 22:05:03 2023 +0200
+
+    addlivre finish and fix issues pdf and img in showmore
+
+[33mcommit 71b5e692a35cc5e9209b0ad3af722126e3a185f7[m
+Merge: c76f1db 2915a8b
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Fri May 12 13:04:06 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit c76f1dbeee593a272b0eefb370d92f9ef5a4f551[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Fri May 12 13:01:00 2023 +0100
+
+    addDocs 60%
+
+[33mcommit 2915a8ba27ed028e8bdeafc5c79db04e323d1fee[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 12 12:26:47 2023 +0100
+
+    johafiohapifd
+
+[33mcommit cadb05a88058f1680ae75e2b8e7b28a66d273fa4[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 11 22:47:43 2023 +0100
+
+    finish show emprunt
+
+[33mcommit 2af0926d7fd3101a8cc57ef54bdec708951b204e[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 10 23:15:34 2023 +0100
+
+    show docs emprunt 70%
+
+[33mcommit d45f3b4e167e4351dc866a1e628f4f04ecf5719f[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 10 16:31:02 2023 +0100
+
+    just walo
+
+[33mcommit bcb7d227601c8e4d025d9a982c15b05b5ad930a5[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed May 10 17:28:19 2023 +0200
+
+    start working on show Emprunt
+
+[33mcommit e261b2153dba19817a12aedc3abd29e3cd0632ca[m
+Merge: 6d022de c9accf5
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 10 13:07:36 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 6d022de2cb886a60b3e03b9b3db1f920180a8df5[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 10 13:07:09 2023 +0100
+
+    azertyu
+
+[33mcommit c9accf58033ae6896ef5802454844d9865544409[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 9 22:57:22 2023 +0100
+
+    finish the showdocs just still the emprunt
+
+[33mcommit 26350c11f1f565e28fcd8980a4dfc804d3fcbf0b[m
+Merge: 904d3fe ff785b1
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 9 15:40:13 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 904d3fe8a136ff4c64c79eae7156a04e5678ca2b[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 9 15:05:20 2023 +0100
+
+    change the way table was imported to customize the usage
+
+[33mcommit ff785b194768e5172ff1c9352a8992ab166a4003[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Tue May 9 11:53:14 2023 +0100
+
+    add select component
+
+[33mcommit fbcfec84e603c78b42760ccc030e66b261ecca2b[m
+Merge: d103fe1 f695136
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Tue May 9 11:51:18 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit f6951367c6195da0d03caa8d1b972f69fbef7c06[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 9 12:38:54 2023 +0200
+
+    add the pdf viewer page
+
+[33mcommit d103fe1e2a19a2b35e2a9f597d2aac50a2edb4f5[m
+Merge: 8e3c09d f64f395
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Mon May 8 10:09:35 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 8e3c09dd08290bb1dcf54545d2ad7aa130cf6066[m
+Merge: 6381524 2206a6a
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Mon May 8 10:08:11 2023 +0100
+
+    modification
+
+[33mcommit f64f395de80e0bece5eb5badd749030f26c8cd76[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Mon May 8 11:05:28 2023 +0200
+
+    add moreInfo link to show livre page
+
+[33mcommit 6381524aca01784817aa212c1c8266f351cbfbad[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sun May 7 23:40:48 2023 +0100
+
+    i have a error
+
+[33mcommit 2206a6a4a65e93caf594d9c92ab556e7e8b8535c[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat May 6 20:15:42 2023 +0200
+
+    create UAMI folder thats containe Update and Add and Moreinfo pages , this is for limit layout repete
+
+[33mcommit 002aafd03fe5af2f45ef69f2e41459c18a8c5fa0[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat May 6 01:10:03 2023 +0200
+
+    icrease the nav and title performance
+
+[33mcommit c5c34e0bc058e7475ca8538a7938e926333dfcfc[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 5 21:13:57 2023 +0200
+
+    add content from server to show livre page
+
+[33mcommit 49af1231bd536fa46e14a7535b162d070ae8abb1[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 5 13:39:13 2023 +0200
+
+    update to  next-13.4
+
+[33mcommit d572e519c183cc4b2a477b15911e0e68efa88e89[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri May 5 13:10:12 2023 +0200
+
+    add emprunt queries
+
+[33mcommit 3a15a1951f97d44e093f887983d54aef39f676b5[m
+Merge: 0d99e91 86ae91f
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 4 17:16:16 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 0d99e91a7a0ddba79441e696c9fbeee931d879ef[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu May 4 17:14:52 2023 +0200
+
+    add the get queries and generate prisma file
+
+[33mcommit 86ae91fa2d0c47995d64fd65dae18ba6a687adf7[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu May 4 12:08:45 2023 +0100
+
+    add a component Select ,and i tested in addCategorie
+
+[33mcommit 2da95aa3386161a0c22e3a9ebdfd2ffdc2c308af[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed May 3 07:59:20 2023 +0100
+
+    add emprunt livre for students and Profs also emprunt pfe for students and profs
+
+[33mcommit e676a627ada365c3d58791619ce50a9b61b99601[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 2 11:59:52 2023 +0200
+
+    remove unused import to increase page performance
+
+[33mcommit 0aa60e47cbc2f95e0e4c185ee0fb45dd67d6c97c[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 2 11:49:30 2023 +0200
+
+    add pading to the update and add pages
+
+[33mcommit 859d7be95c824dd3a90030fff4324c5191d5b2db[m
+Merge: 4096735 125dc2f
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 2 11:36:40 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 409673560c1d8145587a204e8d329ad61f7e4803[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue May 2 11:36:26 2023 +0200
+
+    create a table and finish the page show livre
+
+[33mcommit 125dc2f8fc1162573065531b1420d236a95aecb1[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Mon May 1 14:34:31 2023 +0100
+
+    finished{addlivre ,addpfe,addUser,updateLivre,updatePfe,updateUser} todo {addAprovisionnement  updateApprovistionnent  7ta nt2akdo mn DB}
+
+[33mcommit baa9af11d54b965ddf21b39f366333a37207b1c6[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Mon May 1 10:38:56 2023 +0200
+
+    create show livre page finishid by 50%
+
+[33mcommit b8a3ee5524ad55fddfad71105f443fa2180edae5[m
+Merge: 90ac89e 07c1fff
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun Apr 30 17:25:53 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 90ac89efa1ddafc5ef45e1ba871ba5c43ae677bc[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun Apr 30 17:25:38 2023 +0200
+
+    improve the navigator and fix problems
+
+[33mcommit 07c1fff81ea4d7008d7298745e6590adeb5ec737[m
+Merge: 69920fb 9ac456d
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sun Apr 30 15:23:44 2023 +0100
+
+    simple modification in addLivre
+
+[33mcommit 69920fb3be7386f1f9132686373d3f9440997496[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sun Apr 30 15:21:58 2023 +0100
+
+    simple modification in addLivre
+
+[33mcommit 9ac456d67f1a2fff338eb812fc0cfbae84b16412[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun Apr 30 15:59:31 2023 +0200
+
+    card components on add page
+
+[33mcommit 6544e8294b087d0601c6310c0797230b9a0ccd48[m
+Merge: 2d7b918 5b68ce7
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun Apr 30 15:39:42 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 2d7b918a1852e31989c0384e637def9916c6dced[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun Apr 30 15:37:20 2023 +0200
+
+    finishing the acceuil page and i will move to a the show books page
+
+[33mcommit 5b68ce7d8aa94d50292f18f8b1556ce9a9f2ba33[m
+Merge: 5d45642 521ae50
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sun Apr 30 14:33:08 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 5d4564231209ca2358a62ef6cc55959498199c01[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Sun Apr 30 14:32:52 2023 +0100
+
+    addlivre is finished
+
+[33mcommit 521ae500656fb9ca3d3afb3752744ff8798fb67d[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sun Apr 30 13:14:24 2023 +0200
+
+    add a very useful card component and acceuil page finishid by 60%
+
+[33mcommit 066ebc4257791ad710c1cc7582944d847097c513[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Sat Apr 29 17:09:30 2023 +0200
+
+    fix page title problem
+
+[33mcommit 7610eab586881d68d4e91b1d847e21de338f8e1d[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri Apr 28 13:43:44 2023 +0200
+
+    fix errors
+
+[33mcommit 8be6bf469a02d1da79e1d2a2214ec3cb20ccd000[m
+Merge: 81b8573 819a5a7
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri Apr 28 13:35:38 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 81b85731185344f5611ea6199b4e987b968c8333[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Fri Apr 28 13:33:44 2023 +0200
+
+    additional setting
+
+[33mcommit 819a5a7cb5716a1fc0b38420af9ebf49a6b11728[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu Apr 27 21:43:07 2023 +0000
+
+    add the header of the page with a dynamic title and a clock
+
+[33mcommit f978b14f6878e3a2f13129ffa609f5f4a7cbc8f7[m
+Merge: 6de68ba e862c44
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu Apr 27 16:00:03 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 6de68ba316d15068f581aec004610ce182a59297[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu Apr 27 15:57:55 2023 +0200
+
+    update the navelements variable name
+
+[33mcommit e862c441ad6da430dabbc0396568b3b741f282de[m
+Merge: 4538ded 0ba6faa
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu Apr 27 14:53:59 2023 +0100
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 4538dedb3c3ea3413fd0ea1a0c2576a6aa073105[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Thu Apr 27 14:53:42 2023 +0100
+
+    add links to the login^page and sign up
+
+[33mcommit 0ba6faa5ef997d537dac6e9e78d71e074c24f0b6[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu Apr 27 10:34:51 2023 +0200
+
+    walo
+
+[33mcommit 44d42d4ce4dcbbd3987d63e77259c96e5ed286a7[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Thu Apr 27 10:32:27 2023 +0200
+
+    the end of navigator TODO:update the links
+
+[33mcommit 24b500ceaeae4cd4a9cdeaa2c0791599f95580fe[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed Apr 26 22:20:12 2023 +0000
+
+    add aditional style and finish the nav component
+
+[33mcommit fa3e540f37c64b112a6bffabd315da64ce61dc37[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed Apr 26 22:33:01 2023 +0200
+
+    finishing dynamic nav and fix sub nav problem
+
+[33mcommit 19888f55116abfd5133fa0dcb9475d1b0101e16e[m
+Merge: 9124057 4262307
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed Apr 26 14:31:15 2023 +0200
+
+    Merge branch 'main' of https://github.com/abderrahmane0402/BiblioEsts
+
+[33mcommit 9124057990a1d8a65e1a854fc16f08fa154907ff[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed Apr 26 14:30:01 2023 +0200
+
+    create navbar
+
+[33mcommit 42623075fffbc825e8acf2dc5fd73ac69e1c6128[m
+Author: ZakariaRekhla2004 <zakariaest49@gmail.com>
+Date:   Wed Apr 26 13:20:58 2023 +0100
+
+    create comnponnent Button and finish the design od sign_Up/IN
+
+[33mcommit 3e2264600225bbfee03116ef05b700f49682ed80[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed Apr 26 11:13:37 2023 +0200
+
+    start the main page
+
+[33mcommit 45a82224691d447248169b4fb47e1287954e6873[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed Apr 26 08:50:19 2023 +0200
+
+    fixing input check problem
+
+[33mcommit d7be6fc592b4023598fa10c624f360ec9ad18d27[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Wed Apr 26 08:03:44 2023 +0000
+
+    login finishied by 80%
+
+[33mcommit aacf4103dd924969834a00f9d93ddecce5822fa5[m
+Author: abderrahmane0402 <abderrahmanesabkari@gmail.com>
+Date:   Tue Apr 25 17:27:12 2023 +0200
+
+    convert project to typescript
